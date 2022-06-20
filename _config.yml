@@ -4,10 +4,10 @@ permalink: /blog/:year/:month/:day/:title
 title: rob & lingcomp
 author:
   name: sleepyrob
-  email: robertocannarella@outlook.it
+  #email: robertocannarella@outlook.it
 description: > # this means to ignore newlines until "show_excerpts:"
-  ma i computer pensano in linguaggio naturale?
-show_excerpts: false # set to true to show excerpts on the homepage
+  linguistica computazionale & nlp
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
