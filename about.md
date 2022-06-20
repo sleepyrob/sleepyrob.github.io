@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Chi sono
+title: chi sono
 permalink: /about/
 ---
-
-## Chi sono
 
 Mi chiamo Roberto e mi occupo di linguistica, linguistica computazionale e intelligenza artificiale 🌙
 
