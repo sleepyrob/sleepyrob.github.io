@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "Le mille facce della linguistica computazionale"
+title: "Le mille facce della linguistica computazionale 🧠"
 date: 2022-06-20
 ---
-
-# Le tante facce della linguistica computazionale 🧠
 
 Definire cose complesse in maniera semplice non è mai facile. Quando parliamo di grandi ambiti disciplinari, poi, risulta essere ancora meno facile. La linguistica computazionale è un ambito effettivamente molto grande: la sua storia non è lunghissima (spero che ci torneremo!), eppure si è sviluppata negli anni attraverso modelli teorici e tecnologie sempre diversi, per raggiungere obiettivi sempre diversi, intersecandosi, in maniera più o meno profonda in base al periodo, con aree sempre diverse.
 
