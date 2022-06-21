@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Le mille facce della linguistica computazionale 🧠"
+title: "Le tante facce della linguistica computazionale 🧠"
 date: 2022-06-20
 ---
 
