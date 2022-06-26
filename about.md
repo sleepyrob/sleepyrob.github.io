@@ -27,4 +27,4 @@ Al momento sto completando gli studi all'Università di Pisa, con una tesi su in
 
 Fra i miei interessi, [buona e (soprattutto) meno buona musica](https://rateyourmusic.com/~mud__), [i libri, in questo caso esclusivamente buoni](https://www.goodreads.com/user/show/70994255-rob), e cucinare (solo piatti vegetariani, anche in questo caso esclusivamente buoni).
 
-Qui vorrei condividere quel che so su un ambito che credo dovrebbe essere accessibile a tuttə e non appannaggio di pochə. Chiedo perdono per gli errori, le sviste, i passaggi poco precisi che, sicuramente e inevitabilmente, ci saranno.
+Qui vorrei condividere informazioni su un campo che mi appassiona, e che credo dovrebbe essere più accessibile: la linguistica computazionale. Le risorse al riguardo in italiano infatti non sono molte, così come i corsi, accademici e non. L'obiettivo è quello di essere chiaro a, potenzialmente, chiunque sia interessato a scoprire qualcosina dell'ambito. Ci saranno sicuramente errori, imprecisioni e sviste: chiedo perdono in anticipo e invito chiunque a segnalarle.
